@@ -1,0 +1,27 @@
+Data Analyzed:
+
+1
+2
+3
+4
+5
+5
+5
+5
+6
+7
+8
+9
+10
+42
+42
+
+Statistics:
+
+average: 10.2667
+
+median: 5
+
+mode: 5
+
+range: 41
