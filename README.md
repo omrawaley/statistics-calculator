@@ -14,6 +14,8 @@ A simple calculator program that can calculate the measures of central tendency 
 ## Usage
 An argument with a path pointing to a list of data is expected. This list may only contain numbers (no commas or other types of text). See `data/data.txt` for an example of this.
 
+A file named `statistics.txt` will be generated in the `statistics` directory. See `statistics/statistics.txt` for an example of this.
+
 On the command line, run:
 
 `./<path-to-executable>/calculator <path-to-data>/input.txt`
